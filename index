@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href ="styles.css" type = "text/css">
+    <link href ="menu.css" type = "text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap" rel="stylesheet">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Carrois+Gothic&display=swap" rel="stylesheet">
+    <title>Argentina's Resume </title>
+      
+  </head>
+
+  <body>
+      
+    <main>
+     
+            
+   
+      
+
+      <!-- ********************  PROJECTS / PORTFOLIO  ********************* -->
+      
+        <h2>Featured Projects</h2>
+        <section class="project1">
+          
+          <h3> Piax</h3> 
+             <h3>Bright Morning Coffee</h3> 
+             <h3>ad</h3>
+        </section>
+        <div class="job-items">
+         <p><img src="images/piax-450px.jpg"  
+          srcset="images/piax-450px.jpg 450w
+          images/piax-750px.jpg 750w,
+          images/piax-1000px.jpg 1000w "
+          sizes="20vw"
+          alt="Jar of honey with the paix tag">
+         </br>
+          Piax is a tea line created for a high end store. The word piax is peace in french and the logo uses lavender to associate the plant with relaxation.</p>
+   
+            <p> <img src="images/bright-450px.jpg"  
+             srcset="images/bright-450px.jpg 450w
+             images/bright-750.jpg 750w,
+             images/bright-1000px.jpg 1000w "
+             sizes="20vw"
+             alt="lable for the new colombian coffee Bright Morning Coffee"></br>
+             bright morning coffee is a colombian coffe that will wake you up. The package design is intended to resemble the forest in colombia where the coffee bean grows. 
+               The color scheme resembles the dark and light flavors you can get with this coffee. It all depends on the creamer you pair it with  </p>
+              <p> <img src="images/ad-450px.jpg"  
+          srcset="images/ad-450px.jpg 450w
+          images/ad-750px.jpg 750w,
+          images/ad-1000px.jpg 1000w "
+          sizes="20vw"
+          alt="ad for mango kombucha"></br>
+          This Ad helps the customer visualize the flavor of mango
+          </p>
+           
+           
+        </div>
+        </section>
+       
+    </br>
+        <!-- End of Project block. -->
+      </section>
+
+      <!-- ******************  EDUCATION & CERTIFICATIONS ****************** -->
+   
+     
+       
+         <!-- ***********************  WORK EXPERIENCE  *********************** -->
+      <section class="work">
+
+        <h2>Work Experience</h2>
+        <h4>Customer Service Representative</h4>
+        <p>Charter communications March 2020- present</p>
+        <p>remotely guiding customers through video repair. This helps ensure that customers are able to enjoy their cable service.
+        </p></section>
+        <section class="skills">
+            <h2>Skills</h2>
+             <p>
+                 <ul>
+                     <li>Illustrator</li>
+                     <li>Indesign</li>
+                     <li>Photoshop</li>
+                     <li>Photography</li>
+                 </ul>
+             </p>
+        </section>
+
+        
+
+      <!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** -->
+      <footer>
+        <h2>Let's Keep in Touch!</h2>
+
+        <!-- Social media and contact links. Add or remove any networks. -->
+        
+          <a href="mailto:alvarezargetina2@gmail.com">alvarezargetina2@gmail.com</a>
+          <a href="https://argentinaa8.wordpress.com" target="_blank">argentinaa8.wordpress.com</a>
+          <a href="https://twitter.com/argentinaa_a" target="_blank">Twitter</a>
+          <a href="https://www.linkedin.com/in/argentina-alvarez-5704a6174/" target="_blank">LinkedIn</a>
+          <a href="https://www.instagram.com/argentinaa_a/" target="_blank">Instagram</a>
+          
+        
+      </footer>
+    </main>
+  </body>
+</html>
